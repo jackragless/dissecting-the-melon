@@ -6,15 +6,15 @@ correlate with a review’s score.
 
 ![alt text](melon_man.png "The Melon")
 
-![Alt Text](https://drive.google.com/file/d/18ZIw8oJ1zTLUoA_Yfr6H5yDiwe5CG3NE)
+![Alt Text](media/melon-genre.gif)
 
-![Alt Text](https://drive.google.com/file/d/1XfbGtuCcwxjVICLD8vpL6n81dil8BmQt)
+![Alt Text](media/melon-gapminder.gif)
 
-![Alt Text](https://drive.google.com/file/d/1be7oFrNTgXDxddVYrH0FlXbD-WwwhV4y)
+![Alt Text](media/melon-shirt.png)
 
-![Alt Text](https://drive.google.com/file/d/1xTvza39VlngYyaU9-7OzCHYa28CnCYLM)
+![Alt Text](media/melon-geo.png)
 
-![Alt Text](https://drive.google.com/file/d/19ggt1yUL8whFuSnYbVUSPbmQ1VD0ceki/view?usp=sharing)
+![Alt Text](media/melon-popularity.png)
 
 
 
